@@ -11,11 +11,11 @@ public class Client {
         sorts.execute(arr);
 
         sorts.setMySort(insert);
-        System.out.println("插入排序");
+        System.out.println("\n插入排序");
         sorts.execute(arr);
 
         sorts.setMySort(choice);
-        System.out.println("选择排序");
+        System.out.println("\n选择排序");
         sorts.execute(arr);
     }
 }

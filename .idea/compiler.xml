@@ -10,6 +10,7 @@
         <module name="FactoryMethod" />
         <module name="Facade" />
         <module name="Prototype" />
+        <module name="Template" />
         <module name="Decorator" />
         <module name="ChainPattern" />
         <module name="proxy" />
@@ -41,6 +42,7 @@
       <module name="proxy" target="8" />
       <module name="Singleton" target="8" />
       <module name="Strategy" target="8" />
+      <module name="Template" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
