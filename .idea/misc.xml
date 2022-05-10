@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/Command/pom.xml" />
         <option value="$PROJECT_DIR$/Iterator/pom.xml" />
         <option value="$PROJECT_DIR$/Observer/pom.xml" />
+        <option value="$PROJECT_DIR$/Strategy/pom.xml" />
       </list>
     </option>
   </component>

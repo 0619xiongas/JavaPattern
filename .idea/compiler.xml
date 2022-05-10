@@ -20,6 +20,7 @@
         <module name="Calculator" />
         <module name="Observer" />
         <module name="Iterator" />
+        <module name="Strategy" />
         <module name="AdapterPattern" />
       </profile>
     </annotationProcessing>
@@ -39,6 +40,7 @@
       <module name="Prototype" target="8" />
       <module name="proxy" target="8" />
       <module name="Singleton" target="8" />
+      <module name="Strategy" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
