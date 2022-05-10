@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/FactoryMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/Singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/AdapterPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/BridgePattern/pom.xml" />
+        <option value="$PROJECT_DIR$/CompositesPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/1/pom.xml" />
+        <option value="$PROJECT_DIR$/composite/pom.xml" />
+        <option value="$PROJECT_DIR$/Decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/FacadePattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Facade/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/ChainPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/CRP/pom.xml" />
+        <option value="$PROJECT_DIR$/Command/pom.xml" />
+        <option value="$PROJECT_DIR$/Iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/Observer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

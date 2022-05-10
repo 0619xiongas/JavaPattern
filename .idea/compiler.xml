@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CRP" />
+        <module name="FactoryMethod" />
+        <module name="Facade" />
+        <module name="Prototype" />
+        <module name="Decorator" />
+        <module name="ChainPattern" />
+        <module name="proxy" />
+        <module name="Command" />
+        <module name="Singleton" />
+        <module name="composite" />
+        <module name="BridgePattern" />
+        <module name="Calculator" />
+        <module name="Observer" />
+        <module name="Iterator" />
+        <module name="AdapterPattern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="AdapterPattern" target="8" />
+      <module name="BridgePattern" target="8" />
+      <module name="Calculator" target="8" />
+      <module name="ChainPattern" target="8" />
+      <module name="Command" target="8" />
+      <module name="composite" target="8" />
+      <module name="CRP" target="8" />
+      <module name="Decorator" target="8" />
+      <module name="Facade" target="8" />
+      <module name="FactoryMethod" target="8" />
+      <module name="Iterator" target="8" />
+      <module name="Observer" target="8" />
+      <module name="Prototype" target="8" />
+      <module name="proxy" target="8" />
+      <module name="Singleton" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

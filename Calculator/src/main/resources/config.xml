@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <chartType>Operations.AddOperation</chartType>
+    <chartType>Operations.SubOperation</chartType>
+    <chartType>Operations.MulOperation</chartType>
+    <chartType>Operations.DivOperation</chartType>
+</config>
