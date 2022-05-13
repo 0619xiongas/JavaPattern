@@ -4,5 +4,4 @@ public abstract class SearchContext {
         this.instance = instance;
     }
     public abstract void handleRequest(SearchKey key);
-
 }
